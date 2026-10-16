@@ -1,3 +1,10 @@
+/*
+CalculatePay is not the responsibility of the employee
+The employee shouldn't calculate tax, that more goes to the company
+Database operations are not something an employee should be doing. 
+
+I'd remove every responsibility except for responsibility 1.
+*/
 public class Employee {
     private String name;
     private double salary;
