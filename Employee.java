@@ -1,4 +1,5 @@
 /*
+Kearstyn Dyer and Aiden Murphy
 CalculatePay is not the responsibility of the employee
 The employee shouldn't calculate tax, that more goes to the company
 Database operations are not something an employee should be doing. 
